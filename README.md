@@ -1,24 +1,26 @@
-![](https://raw.githubusercontent.com/hatemecha/githubStats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/hatemecha/githubStats/output/generated/languages.svg)
+# hatemecha
+
+Hago webs, vibecodeo descaradamente, hago herramientas que creo necesitar y a veces hago temas para apps que suelo usar.
+
+## Stats
 
 <p align="center">
-  experimentos web, interfaces con caracter y prototipos raros
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hatemecha&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatemecha&theme=github_dark" alt="Repositories by language" />
 </p>
 
-<p align="center">
-  <a href="https://porqueodiasamecha.lol">site</a>
-  |
-  <a href="https://github.com/hatemecha?tab=repositories">repos</a>
-  |
-  <a href="https://github.com/hatemecha?tab=stars">stars</a>
-</p>
+## Proyectos principales
 
-<p align="center">
-  <a href="https://github.com/hatemecha/porqueodiasamecha">porqueodiasamecha</a>
-  |
-  <a href="https://github.com/hatemecha/hatewebcam-web">hatewebcam-web</a>
-  |
-  <a href="https://github.com/hatemecha/paprika-web">paprika-web</a>
-  |
-  <a href="https://github.com/hatemecha/ruido-molesto-web">ruido-molesto-web</a>
-</p>
+- [porqueodiasamecha](https://github.com/hatemecha/porqueodiasamecha): sitio personal con home 3D y secciones para proyectos, musica, fotos y notas.
+- [bahia-under-web](https://github.com/hatemecha/bahia-under-web): prototipo de plataforma para la escena musical independiente de Bahia Blanca, con perfiles, lanzamientos, reproductor y agenda (cancelado)
+- [hatewebcam-web](https://github.com/hatemecha/hatewebcam-web): app de webcam en el navegador con captura, grabacion, filtros y deteccion en tiempo real.
+- [fastext](https://github.com/hatemecha/fastext): editor de texto de escritorio hecho con Tauri y Rust. (simple experimentacion)
+
+## Otros repos propios
+
+- [paprika-web](https://github.com/hatemecha/paprika-web): sitio para la banda Paprika.
+- [ruido-molesto-web](https://github.com/hatemecha/ruido-molesto-web): sitio para un sello discografico independiente.
+- [lucid-dreamfight](https://github.com/hatemecha/lucid-dreamfight): prototipo de juego en navegador con Three.js y WebSocket.
+- [borderless-minimal-zed](https://github.com/hatemecha/borderless-minimal-zed): tema para Zed.
+- [retro-larper](https://github.com/hatemecha/retro-larper): tema para Obsidian.
+- [g-old-editor](https://github.com/hatemecha/g-old-editor): editor de filtros retro para video hecho con Python y OpenCV.

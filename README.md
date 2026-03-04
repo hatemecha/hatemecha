@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/hatemecha/hatemecha/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/hatemecha/hatemecha/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/hatemecha/githubStats/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/hatemecha/githubStats/output/generated/languages.svg)
 
 <p align="center">
   experimentos web, interfaces con caracter y prototipos raros

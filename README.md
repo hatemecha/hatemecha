@@ -2,7 +2,7 @@
 
 # hatemecha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=vibecodeo+descaradamente;hago+herramientas+que+creo+necesitar;temas+para+apps+que+suelo+usar" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=F0000&center=true&vCenter=true&width=700&lines=vibecoding;webs;tools" alt="typing intro" />
 
 </div>
 
@@ -17,12 +17,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatemecha&theme=github_dark" alt="Repositories by language" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/style-vibecore-8A2BE2?style=for-the-badge" alt="style vibecore" />
-  <img src="https://img.shields.io/badge/building-webs-111111?style=for-the-badge" alt="building webs" />
-  <img src="https://img.shields.io/badge/themes%20for%20apps-2D2D2D?style=for-the-badge" alt="themes for apps" />
-</p>
-
 ---
 
 ## Proyectos principales
@@ -31,7 +25,7 @@
 <tr>
 <td width="50%" valign="top">
 
-- [porqueodiasamecha](https://github.com/hatemecha/porqueodiasamecha): sitio personal con home 3D y secciones para proyectos, musica, fotos y notas.
+- [porqueodiasamecha](https://github.com/hatemecha/porqueodiasamecha): sitio personal.
 - [bahia-under-web](https://github.com/hatemecha/bahia-under-web): prototipo de plataforma para la escena musical independiente de Bahia Blanca, con perfiles, lanzamientos, reproductor y agenda (cancelado)
 
 </td>

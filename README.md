@@ -2,7 +2,7 @@
 
 # hatemecha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=F0000&center=true&vCenter=true&width=700&lines=vibecoding;webs;tools" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=vibecoding;webs;tools" alt="typing intro" />
 
 </div>
 
@@ -50,11 +50,3 @@
 - [g-old-editor](https://github.com/hatemecha/g-old-editor): editor de filtros retro para video hecho con Python y OpenCV.
 
 ---
-
-<div align="center">
-
-```txt
-[ hateweb · vibe · build · repeat ]
-```
-
-</div>

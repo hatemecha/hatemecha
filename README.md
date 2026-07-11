@@ -1,127 +1,42 @@
 <div align="center">
 
-# Alex Romero — `hatemecha`
+# hatemecha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=760&lines=software+con+identidad;productos+web+y+herramientas+multimedia;interfaces%2C+rendimiento+y+experimentos" alt="Software con identidad, productos web y herramientas multimedia" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=hago+webs;vibecodeo+descaradamente;hago+herramientas+que+creo+necesitar" alt="hago webs, vibecodeo descaradamente y hago herramientas que creo necesitar" />
 
 <br />
 
-> Desarrollo productos web, herramientas multimedia y experiencias interactivas.  
-> Me interesa convertir ideas extrañas o problemas concretos en software funcional, rápido y con una identidad visual propia.
->
-> [**porqueodiasamecha.lol**](https://porqueodiasamecha.lol)
+Hago webs, vibecodeo descaradamente y convierto problemas muy específicos en herramientas que probablemente solo yo quería al principio.
+
+[**porqueodiasamecha.lol**](https://porqueodiasamecha.lol)
+
+<br />
+
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+<img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
 
 </div>
 
 ---
 
-## Qué hago
+## cosas que hice
 
-- Desarrollo aplicaciones **full stack**, productos web y herramientas que funcionan directamente en el navegador.
-- Diseño interfaces y experiencias con atención a la **identidad visual, claridad, accesibilidad y comportamiento responsive**.
-- Trabajo con captura y edición multimedia, procesamiento de PDF, APIs del navegador, visualización 3D y aplicaciones de escritorio.
-- Construyo sistemas privados para salud, gestión y educación online, además de proyectos personales y experimentales.
-- Uso IA como acelerador de desarrollo, ocupándome de convertir los prototipos en proyectos estructurados, comprobables y mantenibles.
+- [**hatewebcam**](https://github.com/hatemecha/hatewebcam-web) — cámara y editor de video local en el navegador. [demo](https://hatemecha.github.io/hatewebcam-web/)
+- [**iHatePDF**](https://github.com/hatemecha/iHatePDF) — herramientas para trabajar con PDF sin subirlos a ningún servidor. [demo](https://hatemecha.github.io/iHatePDF/)
+- [**porqueodiasamecha**](https://github.com/hatemecha/porqueodiasamecha) — mi web, laboratorio y basurero digital.
+- [**(g)old-editor**](https://github.com/hatemecha/g-old-editor) — editor retro de video hecho con Python y OpenCV.
 
-## Stack actual
-
-**Frontend**  
-`React` · `TypeScript` · `JavaScript` · `Svelte` · `HTML` · `CSS` · `Tailwind CSS` · `Vite`
-
-**Backend y producto**  
-`PHP` · `Laravel` · `Inertia` · `Filament` · `Supabase` · `SQL`
-
-**Desktop, multimedia y experiencias**  
-`Tauri` · `Rust` · `Python` · `OpenCV` · `WebGL` · `Web Workers` · `MediaPipe` · `Three.js` · `Phaser`
-
-**Calidad y entrega**  
-`Vitest` · `PHPUnit` · `Playwright` · `ESLint` · `GitHub Actions` · `GitHub Pages`
+También hice webs para [Paprika](https://github.com/hatemecha/paprika-web) y [Ruido Molesto](https://github.com/hatemecha/ruido-molesto-web), además de algunos temas para programas que uso.
 
 ---
 
-## Proyectos destacados
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatemecha&layout=compact&langs_count=6&hide=html,css,shell,batchfile&theme=transparent&hide_border=true&title_color=ff0000&text_color=c9d1d9" alt="Lenguajes más usados" />
 
-### [hatewebcam](https://github.com/hatemecha/hatewebcam-web)
-
-Aplicación multimedia local-first para cámara y video: captura, filtros, detección visual, perfiles, timeline, edición por intervalos y exportación.
-
-`JavaScript` `Vite` `WebGL` `MediaPipe` `Web Workers`
-
-[Probar la aplicación](https://hatemecha.github.io/hatewebcam-web/)
-
-</td>
-<td width="50%" valign="top">
-
-### [iHatePDF](https://github.com/hatemecha/iHatePDF)
-
-Suite de herramientas PDF que procesa los archivos localmente: unir, dividir, reorganizar, comprimir, proteger y convertir documentos e imágenes.
-
-`React` `TypeScript` `Tailwind CSS` `Web Workers` `Vitest`
-
-[Probar la aplicación](https://hatemecha.github.io/iHatePDF/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mecha-launcher](https://github.com/hatemecha/mecha-launcher)
-
-Launcher de Minecraft con instalación y gestión de versiones, perfiles, resolución de Java y autenticación propia.
-
-`Tauri` `Rust` `Svelte` `TypeScript` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-### [porqueodiasamecha](https://github.com/hatemecha/porqueodiasamecha)
-
-Mi sitio personal: proyectos, fotografía, música, dibujos, textos y una interfaz construida alrededor de una identidad visual propia.
-
-`JavaScript` `CSS` `Three.js`
-
-[Visitar el sitio](https://porqueodiasamecha.lol)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Bordes Game](https://github.com/hatemecha/bordes-game)
-
-Base jugable para una experiencia narrativa de terror en baja resolución.
-
-`Phaser 3` `TypeScript` `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### [(g)old-editor](https://github.com/hatemecha/g-old-editor)
-
-Editor de video retro con previsualización en tiempo real, efectos VHS/CRT configurables y exportación.
-
-`Python` `PyQt` `OpenCV` `NumPy`
-
-</td>
-</tr>
-</table>
-
-## Otros trabajos
-
-- [paprika-web](https://github.com/hatemecha/paprika-web): sitio web para una banda.
-- [ruido-molesto-web](https://github.com/hatemecha/ruido-molesto-web): experiencia web para un sello discográfico independiente.
-- [retro-larper](https://github.com/hatemecha/retro-larper): tema visual para Obsidian.
-- [borderless-minimal-zed](https://github.com/hatemecha/borderless-minimal-zed): tema minimalista para Zed.
-
----
-
-## GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hatemecha&theme=github_dark" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatemecha&theme=github_dark" alt="Repositorios por lenguaje" />
-</p>
+</div>

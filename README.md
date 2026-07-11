@@ -2,10 +2,6 @@
 
 # hatemecha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=hago+webs;vibecodeo+descaradamente;hago+herramientas+que+creo+necesitar" alt="hago webs, vibecodeo descaradamente y hago herramientas que creo necesitar" />
-
-<br />
-
 Hago webs, vibecodeo descaradamente y convierto problemas muy específicos en herramientas que probablemente solo yo quería al principio.
 
 [**porqueodiasamecha.lol**](https://porqueodiasamecha.lol)
@@ -32,11 +28,3 @@ Hago webs, vibecodeo descaradamente y convierto problemas muy específicos en he
 - [**(g)old-editor**](https://github.com/hatemecha/g-old-editor) — editor retro de video hecho con Python y OpenCV.
 
 También hice webs para [Paprika](https://github.com/hatemecha/paprika-web) y [Ruido Molesto](https://github.com/hatemecha/ruido-molesto-web), además de algunos temas para programas que uso.
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatemecha&layout=compact&langs_count=6&hide=html,css,shell,batchfile&theme=transparent&hide_border=true&title_color=ff0000&text_color=c9d1d9" alt="Lenguajes más usados" />
-
-</div>
